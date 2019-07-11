@@ -1,0 +1,15 @@
+/* 顶部登录信息栏 */
+.topBar {
+  width: 100%;
+  height: 30px;
+}
+.topBar-nav ul>li{
+  display: inline-block;
+  height: 30px;
+  line-height: 30px;
+  padding: 0 10px;
+  color: #ffffff;
+}
+.topBar-nav a {
+  color: #ffffff;
+}

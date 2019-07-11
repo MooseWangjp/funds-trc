@@ -1,0 +1,24 @@
+.navbar {
+  height: 60px;
+}
+.navbar .nav-logo .web-logo {
+  position: relative;
+  height: 60px;
+  width: 400px;
+  overflow: hidden;
+
+}
+.navbar .nav-logo .web-logo img{
+  position: absolute;
+  margin-top: 15px;
+}
+
+.navigation ul>li {
+  display: inline-block;
+  padding: 0 20px;
+  font: bold 16px/60px "Microsoft YaHei";
+  color: #ffffff;
+}
+.navigation a {
+  color: #ffffff;
+}

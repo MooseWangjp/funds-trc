@@ -1,12 +1,12 @@
 import React from 'react';
-import '.assets/css/App.css';
+import './assets/css/App.css';
+import Home from './pages/Home';
+
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        
-      </header>
+      <Home></Home>
     </div>
   );
 }
